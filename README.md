@@ -2,7 +2,7 @@
 
 ![Logo](FoodLogisticLogo.png)
 
-Autors: [Pol Hernández, Jan Fernandez i David Ballesteros]
+Autors: [Jan Fernandez, Pol Hernández i David Ballesteros]
 
 ## Descripció
 
